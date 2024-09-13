@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @WyllerDK
+- 👀 I’m interested in ... Trabalhar em uma empresa de tecnologia
+- 🌱 I’m currently learning ... Desenvolvimento de sistemas no SENAI CTTI
+- 💞️ I’m looking to collaborate on ... Acessibilidade e inclusão
+- 📫 How to reach me ... (31) 97343-4726
+- 😄 Pronouns: ... Ele/Dele
+- ⚡ Fun fact: ... Instrutor de Judô e violinista batista.
+
+<!---
+WyllerDK/WyllerDK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
